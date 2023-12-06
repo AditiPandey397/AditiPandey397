@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aditipandey397
+- 👋 Hi, I’m @AditiPandey397
 - 👀 I’m interested in Business Analytics/  Data Analytics
 - 🌱 I’m currently learning SQL, Power BI
 - 💞️ I’m looking to collaborate on Business Analytics Projects
